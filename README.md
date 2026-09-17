@@ -1,0 +1,1 @@
+# Calculadora-de-n-mero-bin-rio
